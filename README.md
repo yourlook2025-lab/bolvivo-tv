@@ -1,5 +1,7 @@
 # Bolvivo for Android TV
 
+![Bolvivo running on Android TV](bolvivo-tv.png)
+
 **A free, non-commercial Android TV beta built by an independent developer and sports fan.**
 
 Hi! I built Bolvivo because I wanted a simpler way to browse football and basketball fixtures on a TV, choose a match with a remote, and move straight into full-screen playback.
