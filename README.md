@@ -1,5 +1,13 @@
 # Bolvivo for Android TV
 
+## Watch the one-minute demo
+
+https://github.com/user-attachments/assets/52463c58-8292-4be8-897f-43a28476de48
+
+**English TV walkthrough:** 69 seconds, 720p. Press play above to watch it directly on GitHub.
+
+The recording shows the real TV interface, remote navigation, match selection, connection attempts, and playback behavior. Fixtures and stream availability naturally change over time.
+
 ![Bolvivo running on Android TV](bolvivo-tv.png)
 
 **A free, non-commercial Android TV beta built by an independent developer and sports fan.**
@@ -25,14 +33,6 @@ APK SHA-256:
 ```text
 8d0d28765562be2731d4c9dbb9fd25f81c801a047ed35bd90761e3d9b860d33c
 ```
-
-## One-minute demo
-
-https://github.com/user-attachments/assets/52463c58-8292-4be8-897f-43a28476de48
-
-**English TV walkthrough:** 69 seconds, 720p. Press play above to watch it directly on GitHub.
-
-The recording shows the real TV interface, remote navigation, match selection, connection attempts, and playback behavior. Fixtures and stream availability naturally change over time.
 
 ## Screenshots
 
