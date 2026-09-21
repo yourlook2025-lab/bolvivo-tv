@@ -28,9 +28,25 @@ APK SHA-256:
 
 ## One-minute demo
 
-**[Watch the English TV walkthrough](https://api.bolvivo.com/demo/)** (69 seconds, 720p)
+https://github.com/user-attachments/assets/52463c58-8292-4be8-897f-43a28476de48
+
+**English TV walkthrough:** 69 seconds, 720p. Press play above to watch it directly on GitHub.
 
 The recording shows the real TV interface, remote navigation, match selection, connection attempts, and playback behavior. Fixtures and stream availability naturally change over time.
+
+## Screenshots
+
+### Bolvivo launch screen
+
+![Bolvivo launch screen](bolvivo-brand.jpg)
+
+### Browse football fixtures on a TV
+
+![Bolvivo football fixture list](bolvivo-football-list.jpg)
+
+### Navigate and select a match with the remote
+
+![Bolvivo remote navigation](bolvivo-remote-navigation.jpg)
 
 ## What it does
 
